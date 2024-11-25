@@ -1,0 +1,6 @@
+@ModAppEv_HostAddress = http://localhost:5183
+
+GET {{ModAppEv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
